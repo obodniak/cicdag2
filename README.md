@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/obodniak/cicdag2/actions/workflows/maven.yml/badge.svg?event=push)](https://github.com/obodniak/cicdag2/actions/workflows/maven.yml)
 ## Prerequisites:
 - Java JDK version 17+ should be installed in the system
 
